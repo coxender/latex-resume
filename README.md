@@ -10,4 +10,4 @@
 
 #### Changed
 
-The formatting of the resume, added sections for skills, and shortened projects. Removed links, they aren't showing.
+The formatting of the resume, added sections for skills, and shortened projects. Removed links, they aren't showing. Remove pdfs.
