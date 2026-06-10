@@ -6,7 +6,7 @@
 
 #### Added
 
-- More skills, platforms and frameworks
+- More skills, platforms and frameworks. Added .gitignore.
 
 #### Changed
 
